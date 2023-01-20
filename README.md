@@ -28,12 +28,25 @@ npm install
 
 3. Change values
 
-Open .env and change all FCM values with yours.
+Create the .env and fill all values with your FCM tokens.
+
+```
+REACT_APP_ENV=XXX
+REACT_APP_API_KEY=XXX
+REACT_APP_AUTH_DOMAIN=XXX
+REACT_APP_PROJECT_ID=XXX
+REACT_APP_STORAGE_BUCKET=XXX
+REACT_APP_MESSAGING_SENDER_ID=XXX
+REACT_APP_APP_ID=XXX
+REACT_APP_VAPID_KEY=XXX
+```
 
 4. Launch app
 
 ```
+
 npm run start # for npm
+
 ```
 
 ## How to contribute?
@@ -43,3 +56,7 @@ npm run start # for npm
 3. Code 🤓
 4. Test your changes
 5. Submit a PR!
+
+```
+
+```
