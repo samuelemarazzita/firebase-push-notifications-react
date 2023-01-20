@@ -17,7 +17,7 @@ So I'm interested how we can easily add receiving push notifications to our web 
 1. Clone this repository
 
 ```
-git clone git@github.com:Gapur/firebase-push-notifications.git
+git clone git@github.com:samuelemarazzita/firebase-push-notifications-react.git
 ```
 
 2. Install dependencies
