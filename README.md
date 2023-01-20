@@ -27,7 +27,9 @@ npm install
 ```
 
 3. Change values
-   Open .env and change all FCM values with yours.
+
+Open .env and change all FCM values with yours.
+
 4. Launch app
 
 ```
