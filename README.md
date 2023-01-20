@@ -44,9 +44,7 @@ REACT_APP_VAPID_KEY=XXX
 4. Launch app
 
 ```
-
 npm run start # for npm
-
 ```
 
 ## How to contribute?
@@ -56,7 +54,3 @@ npm run start # for npm
 3. Code 🤓
 4. Test your changes
 5. Submit a PR!
-
-```
-
-```
